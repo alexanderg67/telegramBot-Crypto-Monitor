@@ -1,5 +1,5 @@
 const { Telegraf , Markup,session} = require('telegraf');
-const bot = new Telegraf('5926862904:AAFSNgY6i2sYG0pM583s2cEq-G0C1K325-k');
+const bot = new Telegraf('5926862904sdsdsdsdsdssds');
 const cron = require('node-cron');
 const axios=require('axios')
 const fs=require('fs')
