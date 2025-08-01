@@ -1,0 +1,2 @@
+301638881;bitcoin;40;3;onetime;1
+301638881;ethereum;2;4000;onetime;1
