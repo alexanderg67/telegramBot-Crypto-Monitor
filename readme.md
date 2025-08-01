@@ -1,4 +1,4 @@
-# Project Title
+# Telegram bot CryptoMonitor
 
 Telegram bot( node.js). Бот CryptoMonitor позволяет добавить токены в список мониторинга и уведомлять об изменении цен
 
